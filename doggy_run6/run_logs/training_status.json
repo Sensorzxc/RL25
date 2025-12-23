@@ -1,0 +1,47 @@
+{
+    "AmyImitation": {
+        "checkpoints": [
+            {
+                "steps": 499964,
+                "file_path": "results\\doggy_run6\\AmyImitation\\AmyImitation-499964.onnx",
+                "reward": 0.03741005826741457,
+                "creation_time": 1766461559.7355204,
+                "auxillary_file_paths": [
+                    "results\\doggy_run6\\AmyImitation\\AmyImitation-499964.pt"
+                ]
+            },
+            {
+                "steps": 999966,
+                "file_path": "results\\doggy_run6\\AmyImitation\\AmyImitation-999966.onnx",
+                "reward": 0.6242484509944916,
+                "creation_time": 1766465199.265732,
+                "auxillary_file_paths": [
+                    "results\\doggy_run6\\AmyImitation\\AmyImitation-999966.pt"
+                ]
+            },
+            {
+                "steps": 1000615,
+                "file_path": "results\\doggy_run6\\AmyImitation\\AmyImitation-1000615.onnx",
+                "reward": 0.7264501235701821,
+                "creation_time": 1766465199.4598713,
+                "auxillary_file_paths": [
+                    "results\\doggy_run6\\AmyImitation\\AmyImitation-1000615.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000615,
+            "file_path": "results\\doggy_run6\\AmyImitation.onnx",
+            "reward": 0.7264501235701821,
+            "creation_time": 1766465199.4598713,
+            "auxillary_file_paths": [
+                "results\\doggy_run6\\AmyImitation\\AmyImitation-1000615.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}
